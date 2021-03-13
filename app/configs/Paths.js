@@ -1,1 +1,1 @@
-export const DEV_URL = 'sampleurl';
+export const BASE_URL = 'http://192.168.1.104/api';
